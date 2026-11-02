@@ -1,0 +1,19 @@
+
+###
+GET http://127.0.0.1:8000/jobs/
+
+
+###
+GET http://127.0.0.1:8000/companies/
+
+
+###
+GET http://127.0.0.1:8000/categories/
+
+
+###
+GET http://127.0.0.1:8000/applicants/
+
+
+###
+GET http://127.0.0.1:8000/applications/
